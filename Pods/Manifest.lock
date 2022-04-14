@@ -1,0 +1,45 @@
+PODS:
+  - Alamofire (5.4.4)
+  - AlamofireImage (4.2.0):
+    - Alamofire (~> 5.4)
+  - AppCenter (4.4.1):
+    - AppCenter/Analytics (= 4.4.1)
+    - AppCenter/Crashes (= 4.4.1)
+  - AppCenter/Analytics (4.4.1):
+    - AppCenter/Core
+  - AppCenter/Core (4.4.1)
+  - AppCenter/Crashes (4.4.1):
+    - AppCenter/Core
+  - InputBarAccessoryView (5.4.0):
+    - InputBarAccessoryView/Core (= 5.4.0)
+  - InputBarAccessoryView/Core (5.4.0)
+  - MessageKit (3.7.0):
+    - InputBarAccessoryView (~> 5.4.0)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - AlamofireImage (~> 4.1)
+  - AppCenter
+  - MessageKit
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - AppCenter
+    - InputBarAccessoryView
+    - MessageKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  AlamofireImage: 34a2d90b0e5fe6a5605f85ae4b7b01e784c60192
+  AppCenter: b0b6f1190215b5f983c42934db718f3b46fff3c0
+  InputBarAccessoryView: 74d471ab1fa1736806be50328df79257e52865a9
+  MessageKit: 8e76dd8d65ad44b49e1651c673497146416461e9
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: a0fee0284191784d1f66d1a4fe21cc59f7fc0278
+
+COCOAPODS: 1.11.2

@@ -1,0 +1,6 @@
+framework module Pods_ToyExchangeTests {
+  umbrella header "Pods-ToyExchangeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
